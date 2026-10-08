@@ -19,8 +19,8 @@ CIS435 Credit Card Fraud Detection
 **License:** There was no specified license for this dataset.
 
 ## Repository Contents
-- `model.ipynb`: Data exploration and preprocessing [update this description
-  as the notebook grows].
+- `model.ipynb`: Data exploration and preprocessing.
+- `requirements.txt`: Libraries and depandancies needed for running the `model.ipynb` file.
 
 ## Run the Notebook
 Follow along with the steps below to run the notebook.
